@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi!
+---
+### せーの
 
-<!--
-**yurisxx/yurisxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Three, Two, One, せーの
+> Git の中たどる僕らの commit
+> Branch を渡って merge に繋がる
 
-Here are some ideas to get you started:
+`Define 未来 for time in future`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- GitHub stats -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurisxx&show_icons=true&theme=tokyonight)
