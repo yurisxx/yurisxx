@@ -19,7 +19,7 @@ I like building things, self-hosting services, and figuring out how they work.
 > Branch を渡って merge に繋がる
 
 `Define 未来 for time in future`
-`P.S - from https://takehirotei.bandcamp.com/album/seishun-no-hacking`
+P.S - from https://takehirotei.bandcamp.com/album/seishun-no-hacking
 ---
 
 ### GitHub activity
